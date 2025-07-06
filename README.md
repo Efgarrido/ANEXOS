@@ -20,7 +20,7 @@ b CONAHCyT – Center for Research in Optics A.C., Prol. Constitución 607, Frac
 ## 📂 Content
 
 - **Annex 1 – EES Code for Modeling a Conventional MSSG with Equation Derivation**  
-  File: `Anexo_1.pdf`
+  File: `[View PDF](https://github.com/Efgarrido/ANEXOS/raw/main/Anexo_1.pdf)`
 
 - **Annex 2 – EES Code for Modeling a Proposed MSSG with Equation Derivation**  
   File: `Anexo_2.pdf`
