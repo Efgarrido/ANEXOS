@@ -23,10 +23,10 @@ b CONAHCyT – Center for Research in Optics A.C., Prol. Constitución 607, Frac
   File: `Anexo_1.pdf` (https://github.com/Efgarrido/ANEXOS/blob/main/ANEXO%201.pdf)
 
 - **Annex 2 – EES Code for Modeling a Proposed MSSG with Equation Derivation**  
-  File: `Anexo_2.pdf`
+  File: `Anexo_2.pdf` (https://github.com/Efgarrido/ANEXOS/blob/main/ANEXO%202.pdf)
 
 - **Annex 3 – Parametric Results for the Characterization of the Power Block**  
-  File: `Anexo_C_Codigo_EES.pdf`
+  File: `Anexo_3.pdf`
 
 ---
 
