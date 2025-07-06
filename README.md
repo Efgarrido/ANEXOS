@@ -33,4 +33,4 @@ b CONAHCyT – Center for Research in Optics A.C., Prol. Constitución 607, Frac
 ## 📬 Contact
 
 For technical inquiries or requests for data in alternative formats, please contact:  
-📧 prodrigo@up.edu.mx
+📧 prodrigo@up.edu.mx  , isalgadotr@cio.mx 
