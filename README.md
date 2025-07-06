@@ -26,7 +26,7 @@ b CONAHCyT – Center for Research in Optics A.C., Prol. Constitución 607, Frac
   File: `Anexo_2.pdf` (https://github.com/Efgarrido/ANEXOS/blob/main/ANEXO%202.pdf)
 
 - **Annex 3 – Parametric Results for the Characterization of the Power Block**  
-  File: `Anexo_3.pdf`
+  File: `Anexo_3.pdf` (https://github.com/Efgarrido/ANEXOS/blob/main/ANEXO%203.pdf)
 
 ---
 
