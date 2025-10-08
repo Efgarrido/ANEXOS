@@ -43,7 +43,7 @@ b CONAHCyT – Center for Research in Optics A.C., Prol. Constitución 607, Frac
 - **Annex 8 – Script that processes hourly PML data in constant USD, generates average matrices for weekdays and weekends, and exports them to a CSV**  
   File: `Anexo_8.pdf` (https://github.com/Efgarrido/ANEXOS/blob/main/ANEXO%208.pdf)
 
-- **Annex 9 – Script that generates TOD factors from hourly PML data and exports them to CSV**  
+- **Annex 9 – Script that generates TOD factors from hourly PML data and exports them to a CSV**  
   File: `Anexo_9.pdf` (https://github.com/Efgarrido/ANEXOS/blob/main/ANEXO%209.pdf)
 
 - **Annex 10 – Script that integrates PML matrices and TOD factors, builds the required dispatch structures, and generates an output file for use in SAM**  
