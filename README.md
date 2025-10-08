@@ -28,6 +28,9 @@ b CONAHCyT – Center for Research in Optics A.C., Prol. Constitución 607, Frac
 - **Annex 3 – Parametric Results for the Characterization of the Power Block**  
   File: `Anexo_3.pdf` (https://github.com/Efgarrido/ANEXOS/blob/main/ANEXO%203.pdf)
 
+- **Annex 4 – Master executor script that automates the execution of scripts related to the processing of LMP (Locational Marginal Price) data**  
+  File: `Anexo_3.pdf` (https://github.com/Efgarrido/ANEXOS/blob/main/ANEXO%204.pdf)
+
 ---
 
 ## 📬 Contact
